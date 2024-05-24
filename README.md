@@ -6,7 +6,7 @@
 
 ## About
 
-A tic-tac-toe game written in python implementing Pygame. My first successful Pygame project.
+A tic-tac-toe game written in python implementing Pygame.
 
 ## Requirements
 
