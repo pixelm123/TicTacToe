@@ -16,4 +16,7 @@ Pygame >= 1.9
 
 Please download [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) if not already installed.
 
+![Screenshot](https://github.com/pixelm123/TicTacToe/blob/main/tac.png)
+
+
 
